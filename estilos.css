@@ -1,0 +1,17 @@
+section {background-color: gainsboro;}
+span.azul2 {color: rgb(35, 122, 122);
+ 
+    font-weight: bolder;}
+span.azul {color: rgb(35, 122, 122);}
+h2 {color: darkgray;
+    background-color: slategrey;
+    text-decoration: underline;}
+h3 {color: gray;
+    background-color: lightgray;
+    font-style: italic;}
+h1 {text-align: center;}
+body {background-color:hsl(200, 15%, 85%);}
+p {background-color: gainsboro;}
+footer {background-color: rgb(223, 222, 222);
+        text-align: right;
+        font-weight: bolder;}
